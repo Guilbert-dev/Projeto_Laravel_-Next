@@ -3,6 +3,8 @@ Frontend: http://localhost
 
 Backend API: http://localhost/api/...
 
-MySQL disponível em localhost:3306 (usuário app/app, DB app, root root).
-
-Adminer: http://localhost:8080
+Adminer: http://localhost
+# Acessar
+    # mysql
+    # root
+    # secret
