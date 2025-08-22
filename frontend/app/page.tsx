@@ -1,20 +1,10 @@
-import Users, { User } from "@/hooks/useUsers";
+"use client";
+import NavBar from "@/components/NavBar";
 
-export default async function Home() {
-  const users: User[] = await Users();
-
+export default function Home() {
   return (
     <>
-      <h1>Tela inicial</h1>
-      <div>
-        <ul>
-          {users.map((user: User) => (
-            <li key={user.id}>
-              {user.name} - {user.email}
-            </li>
-          ))}
-        </ul>
-      </div>
+      <NavBar />
     </>
   );
 }

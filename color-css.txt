@@ -1,0 +1,39 @@
+🐾 Paleta 1 – Amigável e Aconchegante
+
+Focada em acolhimento, leveza e energia.
+
+Primária	Secundária	Neutra clara	Neutra escura	Destaque
+
+#556B2F	
+#008B8B	
+#FAFAFA	
+#212121	
+#FF7043
+
+###################################################################
+
+🏥 Paleta 2 – Profissional e Confiável
+
+Mais sóbria, ideal para clínicas ou dashboards sérios.
+
+Primária	Secundária	Background	Texto	Acento
+
+#2196F3	
+#4DB6AC	
+#F5F5F5	
+#212121	
+#FFB300
+
+###################################################################
+
+💻 Paleta 3 – Moderna e Minimalista
+
+Mais ousada, estilo SaaS/admin moderno.
+
+Primária	Secundária	Background	Texto	Acento
+
+#6C63FF	
+#00BFA6	
+#FFFFFF	
+#333333	
+#FF5252
